@@ -1,6 +1,6 @@
 # EXPERIMENT 1
 ## TITLE : 1a.) Display Primitive Datatypes
-```
+``` java
 public class DefaultValues {
     byte b;
     short s;
@@ -34,7 +34,7 @@ public class DefaultValues {
 
 # EXPERIMENT 1
 ## TITLE : 1b.) Display QuadraticEquation
-```
+``` java
 import java.util.Scanner;
 public class QuadraticRoots {
     public static void main(String[] args) {
