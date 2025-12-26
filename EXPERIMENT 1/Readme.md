@@ -80,5 +80,7 @@ public class QuadraticRoots {
 
 ```
 # OUTPUT
-![output of QuadraticRots](exp1b.png)
+![output of QuadraticRots case1](exp1b.png)
+![output of QuadraticRots case2](exp1bcase2.png)
+![output of QuadraticRots case3](exp1bcase3.png)
 
