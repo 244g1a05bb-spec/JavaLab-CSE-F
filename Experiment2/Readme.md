@@ -22,3 +22,4 @@ class MyClass {
     }
 }
 ```
+![output of primitive](exp2a.png)
