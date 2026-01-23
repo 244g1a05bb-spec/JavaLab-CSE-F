@@ -22,4 +22,5 @@ class MyClass {
     }
 }
 ```
-![output of class mechanism]("C:\Users\badle\Downloads\exp2a.jpeg")
+![output of class mechanism]("![exp2a](https://github.com/user-attachments/assets/68928e75-4f92-4b0b-abc1-ee01005110c0)
+")
