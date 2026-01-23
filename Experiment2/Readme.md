@@ -22,4 +22,4 @@ class MyClass {
     }
 }
 ```
-![output of primitive](exp2a.png)
+![output of class mechanism]("C:\Users\badle\Downloads\exp2a.jpeg")
