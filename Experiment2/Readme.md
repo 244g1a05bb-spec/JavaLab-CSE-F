@@ -22,5 +22,6 @@ class MyClass {
     }
 }
 ```
+#OUTPUT
 ![output of class mechanism]("![exp2a](https://github.com/user-attachments/assets/68928e75-4f92-4b0b-abc1-ee01005110c0)
 ")
